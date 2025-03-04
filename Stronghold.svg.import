@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://sr1ewrmcaysd"
-path="res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"
+uid="uid://dp0i0dp2agc3i"
+path="res://.godot/imported/Stronghold.svg-ae3691f3b50dc4deb953f15fb1801ee6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://icon.svg"
-dest_files=["res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex"]
+source_file="res://Stronghold.svg"
+dest_files=["res://.godot/imported/Stronghold.svg-ae3691f3b50dc4deb953f15fb1801ee6.ctex"]
 
 [params]
 
