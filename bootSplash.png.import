@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dlv8wjk54f1r7"
-path="res://.godot/imported/bootSplash.png-1b25d168c4d802eb9f04e4515fcecc86.ctex"
+uid="uid://ivd8csmysko0"
+path="res://.godot/imported/BootSplash.png-387a6805e0444ee48a86299f1b763603.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://bootSplash.png"
-dest_files=["res://.godot/imported/bootSplash.png-1b25d168c4d802eb9f04e4515fcecc86.ctex"]
+source_file="res://BootSplash.png"
+dest_files=["res://.godot/imported/BootSplash.png-387a6805e0444ee48a86299f1b763603.ctex"]
 
 [params]
 
