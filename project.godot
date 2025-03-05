@@ -12,8 +12,8 @@ config_version=5
 
 config/name="towersAndDefence"
 config/features=PackedStringArray("4.3", "GL Compatibility")
-boot_splash/image="res://BootSplash.png"
-config/icon="res://Stronghold.svg"
+boot_splash/image="res://Assets/Boot/BootSplash.png"
+config/icon="res://Assets/Boot/Stronghold.svg"
 
 [editor]
 
