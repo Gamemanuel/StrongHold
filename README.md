@@ -1,5 +1,5 @@
-# welcome to the github repository for the tower defence game Stronghold. 
-  This game was built in the game engine Godot and is currently under development, so changes are many and few between!
+# welcome to the GitHub repository for the tower defence game Stronghold. 
+  This game is being built in the game engine Godot and is currently under development, so changes are many and few between!
 
 # Game Design document (GDD) for this Project.
 ![1](https://github.com/user-attachments/assets/5366005e-d68f-42ac-a5ea-6475f39a34a0)
